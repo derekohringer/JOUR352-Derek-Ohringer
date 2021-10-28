@@ -1,0 +1,46 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#masthead {
+	font-size: 3em;
+	font-family: sans-serif;
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+}
+
+p {
+	font-family: georgia, sans-serif;
+	font-size: 13px;
+}
+
+blockquote {
+font: 24px/36px normal helvetica, sans-serif; 
+font-style: italic; 
+margin-top: 15px; 
+margin-bottom: 15px; 
+color: darkblue; 
+margin-left: 50px; 
+padding-left: 15px; 
+border-left: 4px solid #ccc; 
+} 
+
+figcaption {
+	font-family: georgia, sans-serif;
+	font-size: 10px;
+	opacity: 75%;
+}

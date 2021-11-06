@@ -1,0 +1,53 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#masthead {
+	font-size: 3em;
+	font-family: Lato, arial, sans-serif;
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1 {
+	font-family: Lato, arial, sans-serif;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: Lato, arial, sans-serif;
+	font-size: 16px;
+	color: darkblue;
+}
+
+p {
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 12px;
+}
+
+blockquote {
+font: 24px/36px normal lato, arial, sans-serif; 
+font-style: italic; 
+margin-top: 15px; 
+margin-bottom: 15px; 
+color: darkblue; 
+margin-left: 50px; 
+padding-left: 15px; 
+border-left: 4px solid #ccc; 
+} 
+
+figcaption {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 10px;
+	opacity: 75%;
+}
